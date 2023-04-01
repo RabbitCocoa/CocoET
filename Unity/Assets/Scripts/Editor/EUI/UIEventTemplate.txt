@@ -1,0 +1,42 @@
+/*************************
+文件:{ROOT_UI_NAME}Event.cs
+作者:cocoa
+创建时间:{DateTime}
+描述：
+************************/
+
+namespace ET.Client
+{
+    [UIEvent(UIWidgeID.{ROOT_UI_NAME})]
+    [FriendOf(typeof (ET.Client.{ROOT_UI_NAME}Component))]
+    public class {ROOT_UI_NAME}Event: IEUIEventHandler
+    {
+        public void OnStart(UIWindow uiWindow)
+        {
+            {ROOT_UI_NAME}Component {ROOT_UI_NAME} = uiWindow.AddComponent<{ROOT_UI_NAME}Component>();
+            //----初始化公共组件-----
+{ComComponentStart}
+            //-----------------------
+        }
+
+        public void OnActive(UIWindow uiWindow)
+        {
+          {ROOT_UI_NAME}Component {ROOT_UI_NAME} = uiWindow.GetComponent<{ROOT_UI_NAME}Component>();
+        }
+
+        public void OnHide(UIWindow uiWindow)
+        {
+          {ROOT_UI_NAME}Component {ROOT_UI_NAME} = uiWindow.GetComponent<{ROOT_UI_NAME}Component>();
+        }
+
+        public void OnDestroy(UIWindow uiWindow)
+        {
+              AddressableComponent.Instance.ReleaseSublevel<{ROOT_UI_NAME}Component>();
+        }
+
+        public void OnHideOrDestroy(UIWindow uiWindow)
+        {
+          {ROOT_UI_NAME}Component {ROOT_UI_NAME} = uiWindow.GetComponent<{ROOT_UI_NAME}Component>();
+        }
+    }
+}

@@ -1,0 +1,33 @@
+﻿/*************************
+文件:{ROOT_UI_NAME}Component.cs
+作者:cocoa
+创建时间:{DateTime}
+描述：
+************************/
+
+using UnityEngine;
+using UnityEngine.UI;
+
+namespace ET.Client
+{
+    [UIInfo("{ROOT_UI_NAME}", UIWidgeID.{ROOT_UI_NAME}, UIWindowType.{UI_TYPE})]
+    [ComponentOf(typeof (UIWindow))]
+    public class {ROOT_UI_NAME}Component : Entity,IAwake,ILoad
+    {
+        public GameObject GameObject => this.GetParent<UIWindow>().GameObject;
+        public Transform Transform => this.GetParent<UIWindow>().Transform;
+        
+{UI_WIDGET_FIELD_LIST}
+    }
+    
+     public class {ROOT_UI_NAME}ComponentAwakeSystem: AwakeSystem<{ROOT_UI_NAME}Component>
+     {
+        protected override void Awake({ROOT_UI_NAME}Component self)
+        {
+{FIELD_INITIALIZATION_LIST}
+        }
+     }
+        
+
+
+}

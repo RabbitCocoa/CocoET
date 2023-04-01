@@ -1,0 +1,29 @@
+﻿/*************************
+文件:{ROOT_UI_NAME}.cs
+作者:cocoa
+创建时间:{DateTime}
+描述：
+************************/
+using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
+namespace ET.Client
+{
+
+    [ComponentOf()]
+    public class {ROOT_UI_NAME}: Entity,IAwake<Transform>
+    {
+    	public Transform transform;
+{UI_WIDGET_FIELD_LIST}
+              
+    }
+    public class {ROOT_UI_NAME}AwakeSystem: AwakeSystem<{ROOT_UI_NAME},Transform>
+    {
+        protected override void Awake({ROOT_UI_NAME} self,Transform transform)
+        {
+            self.transform = transform;
+{FIELD_INITIALIZATION_LIST}        
+        }
+    
+    }
+}

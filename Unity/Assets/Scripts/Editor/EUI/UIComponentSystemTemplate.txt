@@ -1,0 +1,15 @@
+/*************************
+文件:{ROOT_UI_NAME}ComponentSystem.cs
+作者:cocoa
+创建时间:{DateTime}
+描述：
+************************/
+using UnityEngine.UI;
+namespace ET.Client
+{
+
+    public static class {ROOT_UI_NAME}ComponentSystem
+    {
+    
+    }
+}

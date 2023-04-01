@@ -1,0 +1,1784 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4bc21567f434b598a3c96ba4946372, type: 3}
+  m_Name: AssetReferenceDB
+  m_EditorClassIdentifier: 
+  m_assets:
+  - m_assetDatabaseId: 4ae9548b054aa754b98b151c8a7470dc
+    m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 69946c1c31fef134c8add53f2a0b4f2c
+    m_importFrom: Assets/Asset Graph.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9185a727f3d575a4aab8a401d005cf6c
+    m_importFrom: Assets/Bundles/Aot/MongoDB.Bson.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b38b5314377274f43a4c58296bb172f5
+    m_importFrom: Assets/Bundles/Aot/MongoDB.Driver.Core.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2cb04fadde5eddd42aa2037e64b03092
+    m_importFrom: Assets/Bundles/Aot/MongoDB.Driver.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf4633872204cbf419acd682409fd426
+    m_importFrom: Assets/Bundles/Aot/mscorlib.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d1aad2a36c399e409b403138b1073e1
+    m_importFrom: Assets/Bundles/Aot/System.Core.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 53aeda242e3d16d4a9a0ab5678f6fb1b
+    m_importFrom: Assets/Bundles/Aot/System.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed5ee0163e8ff1649a667294717a8c38
+    m_importFrom: Assets/Bundles/Aot/Unity.Core.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee50084678bf44341aaeac7ecf3b7a89
+    m_importFrom: Assets/Bundles/Aot/Unity.ThirdParty.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eb5e35d1718f36d4f93543836bf01b92
+    m_importFrom: Assets/Bundles/Code/Hotfix.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3df96fa0f89e4f842bd4e2d345ad5a8c
+    m_importFrom: Assets/Bundles/Code/Hotfix.pdb.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 12948854dc1e7c84385809bb26cca90e
+    m_importFrom: Assets/Bundles/Code/Model.dll.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4e2978d8699d02d478a0b878c62eb25d
+    m_importFrom: Assets/Bundles/Code/Model.pdb.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ba6771e5d8abc6449e944314b0c77df
+    m_importFrom: Assets/Bundles/Scenes/Map1/LightingData.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eeeb8730251ee1b469b9b070c7efb1cf
+    m_importFrom: Assets/Bundles/Scenes/Map1/Lightmap-0_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ab3027117b6819848bae7b1746588d06
+    m_importFrom: Assets/Bundles/Scenes/Map1/Lightmap-0_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 02bc6af578f699249a101b704d189b5a
+    m_importFrom: Assets/Bundles/Scenes/Map1/ReflectionProbe-0.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5294483f20f40d449699101bb428cda
+    m_importFrom: Assets/Bundles/Scenes/Map1.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4836a445dcf1a044d90ff116828a0704
+    m_importFrom: Assets/Bundles/Scenes/Map1Settings.lighting
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7b86a45dc154ae40a2f51144799b7bf
+    m_importFrom: Assets/Bundles/Scenes/Map2/LightingData.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62a71c4ca03e7434ca6ff4bba65ffb45
+    m_importFrom: Assets/Bundles/Scenes/Map2/Lightmap-0_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d7da8dd669b0d8488a81fcb41451b21
+    m_importFrom: Assets/Bundles/Scenes/Map2/Lightmap-0_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1f1694b2c0d992047b551ad028dd5347
+    m_importFrom: Assets/Bundles/Scenes/Map2/ReflectionProbe-0.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 064123f1e5067b249a9fd8967ddbde09
+    m_importFrom: Assets/Bundles/Scenes/Map2.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c78b5af2c87902e4aba73014819bd1a7
+    m_importFrom: Assets/Bundles/Scenes/Map2Settings.lighting
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c54e8d9624286b24fa23519e5df2ed0a
+    m_importFrom: Assets/Bundles/UI/UIHelp.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d8d87e53d93e234448658c9a801a9967
+    m_importFrom: Assets/Bundles/UI/UILobby.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f6d9adc6f537764fa0fea29671e77bf
+    m_importFrom: Assets/Bundles/UI/UILogin.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cfaf4529ce2243c4c85126e9d008897b
+    m_importFrom: Assets/Bundles/Unit/Unit.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 63eb883aff2778247b4f5781cc9a649f
+    m_importFrom: Assets/Scripts/Codes/Model/Generate/Client/Config/AIConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 563f0756420049a44a3bb5e2a477d595
+    m_importFrom: Assets/Scripts/Codes/Model/Generate/Server/Config/StartMachineConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 14c0e4b0dd4cc3d4ebdd1d4a47d3a27d
+    m_importFrom: Assets/Scripts/Codes/Model/Generate/Server/Config/StartSceneConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e1c42eaffb283cc46b9844755f7738d9
+    m_importFrom: Assets/Scripts/Codes/Model/Generate/Server/Config/StartZoneConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 947acfb009d18314896dfdc3311921ba
+    m_importFrom: Assets/Scripts/Codes/Model/Generate/Server/Config/UnitConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 33af398c5827a1e4e9d75cc717b24f19
+    m_importFrom: Assets/Scripts/Codes/Model/Generate/Server/Config/StartProcessConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25f89cbd24b877146a00f0b89443ed02
+    m_importFrom: Assets/Scripts/Codes/Model/Generate/Server/Config/AIConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cdf9536c3f3537648aa2f29d89f179eb
+    m_importFrom: Assets/Scripts/Codes/Model/Generate/Client/Config/UnitConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b83bd0045e5a451baa07ecaedee843d3
+    m_importFrom: Assets/Scripts/Codes/HotfixView/Client/Demo/UI/UIHelp/SceneChangeFinish_ShowUIHelp.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d37b25eb69cb8604387186ad6f2b3e42
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/configs.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f452063ceb5f4150bbbfe795c0aca90
+    m_importFrom: Assets/Bundles/Config/UnitConfigCategory.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e44cd40079d0e664bb2ccc089681cae4
+    m_importFrom: Assets/Config/Excel/AIConfig.xlsx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 277d58db3067742a7b32f9994984b3bc
+    m_importFrom: Assets/Bundles/Config/AIConfigCategory.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1135f5e07ebfa7943a07637f0fa75222
+    m_importFrom: Assets/Scripts/Codes/ModelView/Client/Demo/UI/UIHelp/UIHelpComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d6a325329d5ddd74a8397fe2840bf27e
+    m_importFrom: Assets/Scripts/Codes/HotfixView/Client/Demo/UI/UIHelp/UIHelpComponentSystem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06d2a888ee1a1aa48a6308ac9e12fb1f
+    m_importFrom: Assets/Scripts/Codes/HotfixView/Client/Demo/UI/UIHelp/UIHelpEvent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a530fb836f0f4643ac6aaa2f27ca066c
+    m_importFrom: Assets/Scripts/Editor/EUI/UIComponentTemplate.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb73490330dc41a7bf0763996c2f277e
+    m_importFrom: Assets/Scripts/Codes/HotfixView/Client/Module/EUI/UIComponentSystem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dfedbb9bd8366d04681856b0f85a9020
+    m_importFrom: Assets/Scripts/Codes/HotfixView/Client/Demo/Scene/AfterCreateClientScene_AddComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 580c95b9e9aaeba43a04eff4ff74b46e
+    m_importFrom: Assets/Scripts/Core/Module/Entity/Entity.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10190f390e3576c41ac78a2ab042ddce
+    m_importFrom: Assets/Scripts/Codes/ModelView/Client/Demo/Config/ConfigLoader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db324ba999d7b8e4984d7fc1a841ae60
+    m_importFrom: Assets/AddressableAssetsData/AddressableAssetSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efa77b24542bad84db4c1a14003f6a92
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/unit.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e93527cb875702540ab150b8846de573
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/aotdlls.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b278d149583b9446af9d3c0efff949d
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9589ab16bea2052409e4a50cbe14e420
+    m_importFrom: Assets/AssetGraph/Cache/AssetBundleBuildMap.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4b7c95af4e8311e40b26d6391dd48538
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/maps.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d82cfb8ed1f94d1458729810c8fb6ded
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/uiwindows.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: adb30b78a04910747b79939041efef11
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/codes.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 53b50d5bc43bd1449b2ab7a3e536154f
+    m_importFrom: Assets/Scripts/Editor/BuildEditor/BuildHelper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 99e8caafd72073142a8ad49a388ba655
+    m_importFrom: Assets/AddressableAssetsData/Windows
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b310989bb25429f4a87e358b8678f90d
+    m_importFrom: Assets/AddressableAssetsData/Windows/addressables_content_state.bin
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 55d9010d6a87934468703901aa518c85
+    m_importFrom: Assets/Bundles/Code
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 86cf804ac716af543bbbf3c113e429fe
+    m_importFrom: Assets/Bundles/Aot
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ff3acf49577de0f44b9e1e1afc6f131e
+    m_importFrom: Assets/Bundles/Config
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1b75d276b7b6dd469bf5dccba9a5a80
+    m_importFrom: Assets/Scripts/Editor/BuildEditor/BuildAssembliesHelper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e0d691ac8c1d0454ba07089ea820e18a
+    m_importFrom: Assets/Scenes/Init.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000b000000000000000
+    m_importFrom: ProjectSettings/EditorBuildSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 155ac10f5b348f64e89b3f40a05933d0
+    m_importFrom: Assets/Scripts/Core/Singleton/Game.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b3cb9b07d7917f4cbf5bc2be18e8585
+    m_importFrom: Assets/Scripts/Loader/MonoBehaviour/Init.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d06e8cf45c18764db16886c76475f5e
+    m_importFrom: Assets/Scripts/Loader/CodeLoader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 43265b51b449473fbb50b6b74818bab9
+    m_importFrom: Assets/Scripts/Loader/Helper/AddressableHelper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cc39e9056d617fa44a4bb867019272cb
+    m_importFrom: Assets/Bundles/Config/StartProcessConfigCategory.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a99bcf3a6b0e5194b9013a1c7e33a098
+    m_importFrom: Assets/Bundles/Config/StartMachineConfigCategory.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3395faf07354ecc4aa21a550750d51c3
+    m_importFrom: Assets/Bundles/Config/StartZoneConfigCategory.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f372ed089552890449a17ce67f78af64
+    m_importFrom: Assets/Bundles/Config/StartSceneConfigCategory.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4e813577ac9c3de8947a14eb8c3ce7ea
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/UnityBenchShared/SumNumberJob.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f4122b9a743b744abe2fb6a0a88868b
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Nature/SpeedTree7.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de7fc0987ef63c28b1f8500b817fd444
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Indexers.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7a79c4e23d4d4b64bfa5fa9e6671a460
+    m_importFrom: Packages/com.unity.ugui/Runtime/EventSystem/UIElements/PanelRaycaster.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5212e056e931310787ee119ce0d0f101
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/f16.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dfc15c633f0d98141920018f79a042a6
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Attack.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d15bef20cb43dc49f6156cde028d37a
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/054-Peephole.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f33a9059f8153da189d23db06745747f
+    m_importFrom: Packages/com.unity.burst/Runtime/BurstString.Float.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2efbfcf826a93d09a0cca436df6f6ba7
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/Arm/NEON.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4431b1f1f743fbf4eb310a967890cbea
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/XR/XROcclusionMesh.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 345fbf1c69e936e180653ef894fe94fa
+    m_importFrom: Packages/com.unity.burst/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3d218d6a948d3d8c98c40cca55189572
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/031-Pointers.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 753d1ac2429a21a44ac5f937cbbb409f
+    m_importFrom: Packages/com.unity.render-pipelines.core/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9802e36ef1c38064d9bcd7bf2e01cccb
+    m_importFrom: Packages/com.unity.render-pipelines.universal/ShaderLibrary/Deprecated.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dc110500b91a36bc9ed6654965107aed
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/BurstILPostProcessor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81d4af5a5190e3d4d88c97161d881bf3
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Damage.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d7fd9488000d3734a9e00ee676215985
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Volume/VolumeProfile.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 677f238dc37937045b856e9468e21666
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/VFXGraph/Shaders/Templates/VFXParticlePoints.template
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed5876db37f0e544c8ef9b9802eff934
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/2D/Shadows/ShadowUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1f35a383fc36434aaf9e13a75fba3b24
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.Unsafe.xml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 988db55689193434fb0b3b89538f978f
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIEnumField.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30648b8d550465f4bb77f1e1afd0b37d
+    m_importFrom: Packages/com.unity.render-pipelines.universal/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c68d1e883c8136a89133cc095391d26b
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/BurstDisassemberCoreInstructionTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 143998ff65f2ada468f04434bfabf8c5
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/UniversalRenderer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 66f82e3041613b77861041e9b0479554
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/082-PartialManaged.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4783a0e50db93e7bafe8dae157848042
+    m_importFrom: Packages/com.unity.burst/Editor/BurstMath.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9ac5be0090514aa8b35011788efe5757
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.Unsafe.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 618b0e3f6c65dd247a4a016150006c57
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Camera/FreeCamera.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c7d04ca57e5449d49ad9cee1c604bc26
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Light2D-Point-Volumetric.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2fb9fa88b3a35c49be2bab7bf83ff9f
+    m_importFrom: Packages/com.unity.burst/Tests
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c6f9aa18fd4b3d1d9ef249e3c61af783
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/035-Functions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0849e84e3d62649e8882e9d6f056a017
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/ScreenSpaceAmbientOcclusion.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa0dd524a0c332f7948fb2cc410034b1
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/084-Hint.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0226688e0613b4f91533ad8d9d4ef99
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/UnityBenchShared/PerfNotes.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fe0be3ce66f936ce9fcdf3d39ee4eb97
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4c3a83d3c3e39de9fa75b9ce1f18db4
+    m_importFrom: Packages/com.unity.burst/Runtime/Editor/BurstLoader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 57b7a7a4f3ad393ea50be45cb1a59734
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/Arm/NEON_AArch64_rdma.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 268a64be2367b3248a24f317d458861a
+    m_importFrom: Packages/com.unity.burst/Runtime/Editor/Unity.Burst.ForEditor.asmref
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a15b78cf8ca26ca4fb2090293153c62c
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/PaniniProjection.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a0112ee3119d3bf18f1ca366dcf7fb72
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/F16C.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e507fdfead5ca47e8b9a768b51c291a1
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrass.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 66c95bb3c74257f41bae2622511dc02d
+    m_importFrom: Packages/com.unity.ide.rider/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5f1864addb451f54bae8c86d230f736e
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/Bloom.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cea7ccbebd713e1ea3ff378c516002b2
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/Helpers/DataRange.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5a35c5f0a89b9654d897ccd7c8f81bd0
+    m_importFrom: Assets/Res/Unit/Skeleton/Character/Skeleton@Skin.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8826f823d5c0312faae224801c9e8bd3
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-BinaryOperators-Float2.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9b4e681081e2b4c469111bb649e2f7ee
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Decal.shadergraph
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ab5103b641533a9f83e5ad2023463a41
+    m_importFrom: Packages/com.unity.burst/Runtime/BurstCompileAttribute.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8645aa9c3c74fb34ba9499e14fb332b5
+    m_importFrom: Packages/com.unity.ide.rider/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 65df88701913c224d95fc554db28381a
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/LutBuilderLdr.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5811281c797332b08347cf19ea35bdd9
+    m_importFrom: Packages/com.unity.burst/Runtime/CompilerServices/IgnoreWarningAttribute.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6ff43038fbb38e6b8dc0ba8fc1ebe63
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/v128.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2aed67ad60045d54ba3a00c91e2d2631
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/BokehDepthOfField.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb86f1f0af829fd45b2ebddda1245c22
+    m_importFrom: Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/ProbeVolumeSubdivide.compute
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5088d0220f0c4df439cf06c5c270eacb
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIToggleHistory.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 61f68ecf9182840f7a8c8f0a7cbbbc47
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc9ed20d6388316e806d5f03d0ab3b25
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 462fa7ccda313583afef988dd88dd956
+    m_importFrom: Packages/com.unity.burst/Runtime/Editor/BurstCompileTarget.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d019437ff89b8d44949727731cd9357
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIRow.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4784d45bc93937ca93dc6578b3e58fc2
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-BinaryOperators-Float3.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 632a8cfdfaac24d5f99ef36578edd4ed
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/ScriptableRenderer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73b432af27133f55a35c890c3bdf64c3
+    m_importFrom: Packages/com.unity.burst/Third Party Notices.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 69c1f799e772cb6438f56c23efccb782
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: caa879909c953e51b623b5371e13b0dc
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.Core.LLVMIR.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a899f0bd225d36cabc792b47f8892eb6
+    m_importFrom: Packages/com.unity.burst/Runtime/Editor/BurstEditorOptions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 371f3550e3953e8daa4ae263e3249b0b
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/StaticDelegateRegistry.generated.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76419b2c6a653f1f8e71ad18931e9bcf
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Unity.Burst.Tests/TestCompilerAttribute.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0ee882fdf20e36709b6c8add6925b416
+    m_importFrom: Packages/com.unity.burst/Runtime/BurstRuntime.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6cda457ac28612740adb23da5d39ea92
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/LensFlareDataDriven.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a612739d869d34a8adde619f75545fd1
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/Arm/NEON_AArch64_dotprod.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dc0f88987826e6e48b1fe9c7c2b53a53
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIValue.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a38dc19e981631858fa25623a48b2297
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/AssemblyResolver.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1be91b057dbe43239a838d9e45a42a32
+    m_importFrom: Packages/com.unity.render-pipelines.universal/ShaderLibrary/GlobalIllumination.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5414a49e6d9351382096a939e996781
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Avx2.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 44fc62292b65ab04eabcf310e799ccf6
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Shadow-Sprite.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3afe581e949e3cc489c978bd8e000c4b
+    m_importFrom: Packages/com.unity.render-pipelines.universal/ValidationExceptions.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0bed5c1e3949386481f894d4b987c939
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/011-ReadOnlySpan.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 188f1042b5ff4644389fad5df1f98d7c
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Walk.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1cff789aba933db49f39bca009167be6
+    m_importFrom: Packages/com.unity.burst/Runtime/BurstCompiler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d06e9230c8333159aaae83f89676809c
+    m_importFrom: Packages/com.unity.burst/Runtime/Editor/BurstReflection.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 631a9c909a1e35999f140f79ef90911a
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/080-TestSystemThreading.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7a6d962a8293976b265b5823570c7d2
+    m_importFrom: Packages/com.unity.burst/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1edcd131364091c46a17cbff0b1de97a
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/CameraMotionBlur.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf2c8e09bda2786468d6b49e9f5422bb
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/VFXGraph/Shaders/Templates/VFXParticlePlanarPrimitive.template
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18096755742e35fcb3689baab7116ac1
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/StaticDelegateRegistry.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76c392e42b5098c458856cdf6ecaaaa1
+    m_importFrom: Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f61bc53c41ba664fa527d3386ecfd1e
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Stand.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 713ee8e47b6e3950914855bb4df3cedd
+    m_importFrom: Packages/com.unity.burst/Runtime/CompilerServices/Hint.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c04193df773f3e3880ade12aec05259c
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/ILPostProcessing.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e74c9ce3b3038e298ae140ed24be9a6
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.Core.x86.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 38a07789c9e87004dad98c2909f58369
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIGroup.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0a7e590f3cf1d4ee8a8fab5b6eff09ef
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitAdd.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21322c8b137c66e49b86085d3c8161f6
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitBase.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f22bcc84a5f4a1944b075a2c4ac71493
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIUIntField.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 59be97c3fedf35d09af9a16655bb01e6
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Quaternions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d6dae50ee9e1bfa4db75f19f99355220
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/CopyDepth.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf3029352c65c3e4a9ac9d889fd86f6d
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/RenderGraph/RenderGraph.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20456a2cc8a214f9d9846725cff9fea4
+    m_importFrom: Packages/com.unity.render-pipelines.core/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 82e993a4bd933530928abc484cb33b7b
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Popcnt.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 953d1f4d7d69334fbc9657d7d82a855b
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/030-Expressions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 44245ab89240f51459a5077d7145c452
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMax.shadergraph
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1e768688017709245aed3bb86453c364
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Skill.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18678a28cef624aeb89c5717c46be35b
+    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3739e562a03fc0b4982d8aa66cc50865
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ArnoldStandardSurface/ArnoldStandardSurface.shadergraph
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 931e5ffca47cea54783e99bf989216b5
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Include/LightingUtility.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7857e9d0c934dc4f83f270f8447b006
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/UberPost.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8aefdd7e7bff3d4da4543b12f26116d7
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Sse3.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee7e4c9a5f6364b688a332c67fc32cca
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/ComplexLit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 32b23321ec58ddc4e88879d693256c3a
+    m_importFrom: Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/Includes/PBRForwardAddPass.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de02b375720b5c445afe83cd483bedf3
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Unshadow-Sprite.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7a5e298ca7783a798339f04daef71615
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/Arm/NEON_ctor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 86710f5f973f3eb6ac4556540734abe2
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.Core.ARM64.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: feefc16250a136e3b1866eebaf448839
+    m_importFrom: Packages/com.unity.burst/Runtime/FunctionPointer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca3e294656861a64b8aeeb9f916da0a9
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVBox.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 23284bbc36146a94995a8a08e61f4e73
+    m_importFrom: Packages/com.unity.render-pipelines.core/ShaderLibrary/Color.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 474caba0be7230b18912d1cf57308e06
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Common.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5a3c145909a3a8293305bb95cb9886d
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b94b18a20e83ecd86df27efd171a3ef
+    m_importFrom: Packages/com.unity.burst/Runtime/CompilerServices
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5ac453c34e359d439de9d724772ed3d
+    m_importFrom: Packages/com.unity.shadergraph/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a6bf5755d5d34d6a86b5a10546d50de
+    m_importFrom: Packages/com.unity.burst/Runtime/CompilerServices/Aliasing.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a61990ea737b35738cd05acc22f769ff
+    m_importFrom: Packages/com.unity.burst/Runtime/DiagnosticId.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b1f6cd0ea95735fdb5771bd62598f3e7
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb0c92e22ce4395fae3821dcc85a3113
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/037-DllImportAndroid.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f056d8bd2a1c7e44e9729144b4c70395
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/Decal/DBuffer/DBufferClear.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0406db5a14f94604a8c57ccfbc9f3b46
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eb7078968c7e3322a80bb099e19fb2e8
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/PlaymodeTest.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ffabd1fbe2ab3d59a50128c0669b5791
+    m_importFrom: Packages/com.unity.burst/Editor/BurstInspectorGUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5ec81c81908db34429b4f6ddecadd3bd
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Nature/SpeedTree7Billboard.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f95fb45824f373fad673bef04ad4f0b
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 326f7c58aed965d41bf7805a782d1e44
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d652dd37e32b64cc9b4e36a1e7ddf1b8
+    m_importFrom: Packages/com.unity.shadergraph/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7f5ea3568248320dbf5925ec3ffeed96
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/Arm/NEON_AArch64_fp16.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c02f830887253c6eaf1f7780c59c5432
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/FunctionPointerTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a53ce03b79b73507a0be3717e24125b2
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Ssse3.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b3ede40266cd49a395def176e1bc486
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/ObjectMotionVectors.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 933532a4fcc9baf4fa0491de14d08ed7
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 320f5944c24f3fa689cb4a18e4d42cab
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/v64.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8516d7a69675844a7a0b7095af7c46af
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesSimpleLit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ba554cff9753381d9ca014768e8cb38f
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/091-Matrices.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e7134d6e63e0bc47a1dd2669cedb379
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/GaussianDepthOfField.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6fb761a492f57d84586a8264df7b3cc0
+    m_importFrom: Packages/com.unity.ugui/Tests/Runtime/EventSystem/Physics2DRaycasterTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa45014e48e13a5ea49fd421043ee143
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/SeparateAssembly
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f75f3f6b9bdd391e8a1ba4f47603a59c
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/FunctionPointerInvokeTransform.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ae13646e45aa3634da32df7c7da1c380
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/UniversalRenderPipeline.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 650dd9526735d5b46b79224bc6e94025
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Unlit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 56666c5a40171f54783dd416a44f42bf
+    m_importFrom: Packages/com.unity.ugui/Runtime/EventSystem/Raycasters/Physics2DRaycaster.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a0499a50a9b63d9a90fc428e1f5c89e9
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/020-Types.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 43ceab247d0646c4dadfa5c0b2c67424
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/ShaderUtils.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e9155b26e1bc55942a41e518703fe304
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/StencilDeferred.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f5102c84dd4534c5b5d42601e5a4e801
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Fma.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b45c1accd4ac367d8bf6578a9f4bfc3b
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/UnityBenchShared/IArgumentProvider.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 19dfbb09098c9584a83c956fbd6c5d79
+    m_importFrom: Packages/com.unity.render-pipelines.core/Editor/PostProcessing/LensFlareResource/LensFlareDataDrivenPreview.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4af4309be76b3606b3e7e7bcb69e2b83
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/Helpers
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d54dbb53d4313cc8b7d8289a75202585
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/ManagedExceptionsBurstJobs.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 951755fce4d8bae4ca6cfbe7908e1149
+    m_importFrom: Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/ShaderLibrary/UnityGBuffer.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a32399ce774d347618afa06d4340816d
+    m_importFrom: Packages/com.unity.assetgraph/Tests/rep.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5fb28db57db3325b95957fcfe1a0108b
+    m_importFrom: Packages/com.unity.burst/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d306d2ea7783099abe61e86c377ca92
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/BurstStringSearchTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9361007b00e3342b54a1eae06c8e797
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Equals.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aaa227b30594378da6c3e68ba28f4005
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/TestCompilerAttributeBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2665a8d13d1b3f18800f46e256720795
+    m_importFrom: Packages/com.unity.burst/Runtime/Unity.Burst.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 04d86fa586573a5d8abd45e426c51efc
+    m_importFrom: Packages/com.unity.burst/Runtime/CompilerServices/SPMD.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 759df694340c36bd94e6a50677818fd6
+    m_importFrom: Packages/com.unity.burst/Runtime/CompilerServices/Constant.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 904f1e1473953b2a8945d0919a952652
+    m_importFrom: Packages/com.unity.burst/Runtime/CompilerServices/AssumeRangeAttribute.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4be1f66afb30bb94889fb3a357474d63
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/VFXGraph/VFXURPBinder.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d79e1c784eaf80c4585c0be7391f757a
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Light2D-Shape.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fde1edfe51dc3deaa53f0952dddf2b02
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/BurstReflectionTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 476c38cf01c741143abe491ba6a97a3d
+    m_importFrom: Packages/com.unity.render-pipelines.core/Editor/Volume/Drawers/TextureParameterDrawer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3d355504e32f39b89ef31f85cad154a5
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/081-UnityMath.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de640fe3d0db1804a85f9fc8f5cadab6
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/UniversalRendererData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 571b2a6719883c029655e07bdf47aea0
+    m_importFrom: Packages/com.unity.burst/Editor/BurstAotSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 054be21815c23848b61718e200c6d082
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Bmi1.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77774d9009bb81447b048c907d4c6273
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Unshadow-Geometry.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7771e50c9f91376ca0db91c33bfccfda
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/060-TestEnums.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf87faa2d38c376e8e9adb8eb79abd10
+    m_importFrom: Packages/com.unity.burst/Editor/BurstAotCompiler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 60e10855641b4d84da68ec72e6f6eeb8
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/SpatialMappingOcclusion.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f854b35a0cf61a429bd5dcfea30eddd
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/ScreenSpaceShadows.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c49e63ed1bbcb334780a3bd19dfed403
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/FinalPost.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4ffb7da24670bf4687d34e0a1e19eaa
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/2D/Passes/PixelPerfectBackgroundPass.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bfdd257358273f4bbe12f55beaad8af1
+    m_importFrom: Packages/com.unity.burst/Runtime/SharedStatic.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6b1a0fe75d5009449cf55ae76220e2b
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUIPersistentCanvas.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7078f19173ceac84fb9e29b9f6175201
+    m_importFrom: Packages/com.unity.ide.rider/Rider/Editor/ProjectGeneration/ProjectGeneration.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8fccf3b017733dfdaaf541d38d83d2d7
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Sse2.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 16870bb28557a8f4182d1c8191e951a5
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/MousePositionDebug.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8137ef7a5bbe30cba66445c77046e7f0
+    m_importFrom: Packages/com.unity.burst/Runtime/BurstExecutionEnvironment.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6ce33b91f6ffe54cadacbf4bb112440
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIButton.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ae00bb75e0cd5b04b8fe7fb4ab662629
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIIntField.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 581a69eadade3f4985faa44d7b02aa3d
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/SeparateAssembly/TypeHashWrapper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 50c3d62ace6136cb9c85f8e2a44b7aec
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/032-Patterns.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 04c410c9937594faa893a11dceb85f7e
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/Sampling.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ce347ad101f41ee4ab5c3fbc0ea447db
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIToggle.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d6d6bd522263385da17020bf1da011d2
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Unity.Burst.Tests
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a57f9f83ea626ae45b402953fe637268
+    m_importFrom: Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fec1bb67579b3feda3e2fddd7ecbc304
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/011-Span.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a749f4485b342b7469956010abf2ab25
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Death.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c6dda6c7922c624cb7ea9a7f1c7d54a
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/Unity.Burst.CodeGen.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bab4845fddb63480a507f162be4484b0
+    m_importFrom: Packages/com.unity.burst/Runtime/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30fa68ce467463643a86b839ca0eb195
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ArnoldStandardSurface/ArnoldStandardSurfaceTransparent.shadergraph
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 60718cfd7019357fa8f224817c4f4e31
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.Core.Wasm.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d104b2fc1ca6445babb8e90b0758136b
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/CoreBlitColorAndDepth.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35ff2f449e6f335cb4f69ebb36ecf3e5
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/BurstDisassemblerTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b192164f6d13e9aaf88fbb6833566c4
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/053-TestConstArrays.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e66be22bd0535ebb995d14ab6276f52
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/Common.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7dd1c3c5e7f830fe9ce867cdb38d9108
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-LoadStore.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1cc9902339e433b68fd1d459e798c49f
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/MonoOnlyAttribute.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d517bbd8c0dd383c966641281f1af857
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/Helpers/NativeArrayRaw.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: be182fc13265343bb6d9f9de1ffac38c
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/CecilExtensions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 13c02b14c4d048fa9653293d54f6e0e1
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Unlit-Default.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0ca6dca7396eb48e5849247ffd444914
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/BakedLit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 23b96fd614e136e3bfc64d775335d0f0
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-HashCodes.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 581193df6bcc393285dee7fedd436195
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/EditmodeTest.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 349d67d896d33a54181e800b229b65ec
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/VFXGraph/Shaders/Templates/VFXParticleLinesSW.template
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f57ee821486cd7b488adf1063a8dd207
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Run.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f46c1a0c3e3a98848a0efbf4e1fd5675
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/Passes/AdditionalLightsShadowCasterPass.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 502c484521bc39a9950d91fdf34fd285
+    m_importFrom: Packages/com.unity.burst/Editor/BurstStringSearch.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2da6b27df236b144b3516ed8e7d36ac
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIEnumHistory.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 80aa867ac363ac043847b06ad71604cd
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/AutodeskInteractive/AutodeskInteractiveMasked.shadergraph
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c17132b1f77d20942aa75f8429c0f8bc
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/Blit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c56b7e0d4c7cb484e959caeeedae9bbf
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/CameraMotionVectors.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ebf5c81612053b2c824c08502d93c9a1
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/Helpers/DelegateHelper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a08f6270da013403b91927d6331c706b
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Sse4_1.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b38205989125393b8f9181b1664c53ac
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/Arm
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6e0b4a05932877a4b89fb3fb32c3e72b
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Knockback.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 14bcae32932007341a82b552c24738fd
+    m_importFrom: Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/ShaderLibrary/Lighting.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06cc7660b5c739eca022daad2ed2e0a4
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/050-TestStructs.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7c145f2cd3c411ca7f50ebc5f5a6d24
+    m_importFrom: Packages/com.unity.ide.rider/Rider/Editor/StartUpMethodExecutor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5a307c014552314b9f560906d708772
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/XR/XRMirrorView.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e1c9418ea80ea1f438a3b984293b811c
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/VFXGraph/Shaders/Templates/VFXParticleMeshes.template
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c87ab2ce8b8b304d98fbe9a734b1f74
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIFoldout.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e9aa1e7b18021ca42a72a263243b42a5
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/RenderGraph/RenderGraphBuilder.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10c2b0100e723deab40f35dc43e40cd5
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/050-TestStructsLayout.Generated.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 96e95a3d0dc13a13a60131a728f21b6a
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Bmi2.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6564342aa7c6ca44a86b97323a311d74
+    m_importFrom: Packages/com.unity.render-pipelines.universal/ShaderLibrary/UnityInput.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6a647d1cecc83c4eaf9750af7ae6a1d0
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/BurstMathTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8afc3bf230893de19f58b80ab754c48b
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Swizzles.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fb551fea221a3832b0102868fb87540a
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/Arm/NEON_AArch64.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1121bb4e615ca3c48b214e79e841e823
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/StopNaN.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1bc4bf3e38931c9b2014cc764d03dea
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/070-TestAtomics.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d5fc7fded0f316e809b64bcf0e59a17
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Sse4_2.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 59dd88516199395585b8d7d3fcb486f4
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.Core.Wasm.info.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3cc5badcc5af3e609f1d307c13f81573
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/Helpers/Vectors.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e9be092790937a59d4e735174d7a0cf
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.Core.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6783ab646d374f94b199774402a5144
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainDetailLit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8878187b12193eaa9224a82850835431
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Avx.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a2b1c4300b7e37aea22a3646af54828f
+    m_importFrom: Packages/com.unity.burst/Tests/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d2bb70cbf9db8d4da26e15b26e74248
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d47f009476100f545971a81ede14c750
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector4.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 697f8ec7025a380eaf1544086dd11dae
+    m_importFrom: Packages/com.unity.burst/Runtime/CompilerServices/SkipLocalsInitAttribute.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a6d6fee7f7539579c22d41e9b0b656b
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/ILPostProcessingLegacy.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77c185820dd1a464eac89cae3abccddf
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIColor.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93446b5c5339d4f00b85c159e1159b7c
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/CoreBlit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d6c78107b64145745805d963de80cc17
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/Targets/UniversalLitSubTarget.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dbb95f4d93ed32938db073fd04c6e1fd
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-BinaryOperators-Float4.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3d707c2c34101af48b8dc0b38ea50a1f
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/VFXGraph/Shaders/VFXPasses.template
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e33ae893f1732ff836c7724c3cd2c53
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Exceptions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: da29c8b15d083d699d436bebf024049f
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Sse.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c6721e5578adf964fa914cf0d66e0bdb
+    m_importFrom: Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphAssetPostProcessor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7f5e36797cf0c1408561665c67b179b
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIHBox.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 29868e73b638e48ca99a19ea58c48d90
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrassBillboard.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e27b0bdab1ad7242a009899d15c0e67
+    m_importFrom: Assets/Res/Unit/Skeleton/Skeleton.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3decc8d6366d3d668648f9b79f2a980f
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/BurstJobTester.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e39bd598ce13f44ba8af997d3e42cd18
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Mask.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c8841d47fff7714cb6671d40620dea6
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/2D/Renderer2D.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc98484caab3b6d4facbcff38be93380
+    m_importFrom: Packages/com.unity.ugui/Editor/UI/SliderEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 74f442ba825df4d0483995eadabb1fd4
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7db70e0ea77f5ac47a8f4565a9406397
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/2D/Shadows/ShadowCaster2D.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b3ffde4c8da32a99eafffb5ca0c453d
+    m_importFrom: Packages/com.unity.burst/Editor/LabeledPopup.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92228d45c1ff66740bfa9e6d97f7e280
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/Targets/UniversalSubTarget.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10cda29925873fe1b9148e7e00e4d297
+    m_importFrom: Packages/com.unity.burst/Editor/BurstMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b7250c52bb585e42aada46bd1f36b5d
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/XR/XRSystem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c494744dbcf1c45e0b4d7431ab1a16d9
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc89006ebb6404ae7b55bf130d290f91
+    m_importFrom: Packages/com.unity.burst/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1fde1c55cf0307abe6a38343f5c48df
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.Core.x86.info.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 99134b1f0c27d54469a840832a28fadf
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Nature/SpeedTree8.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6a2963e730253fb7bc1f496becab35d1
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Constructors.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f700f31b2e40d7f4bb69753fdbbbc2b5
+    m_importFrom: Packages/com.unity.ugui/Editor/UI/ScrollbarEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 63eaba0ebfb82cc43bde059b4a8c65f6
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/SubpixelMorphologicalAntialiasing.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e60080c8cd24a2468cb08b4bfee5606
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Light2D-Shape-Volumetric.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee2d997a8a7c5de408c0a4194b1a8b4d
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Textures/RTHandleSystem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 257dc8421dd93ea8aab4f62cab776ccc
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-SizeOfs.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac160f8e04d8868418f09da1757e85ac
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/VFXGraph/Shaders/VFXLitPixelOutput.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c8b6a681c7b4e2e4785ffab093907f9e
+    m_importFrom: Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/VoxelizeScene.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec9fec698a3456d4fb18cf8bacb7a2bc
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/LutBuilderHdr.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e56dfddf7e5373e85a57cde814593df
+    m_importFrom: Packages/com.unity.burst/Runtime
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7978073cb0cd25f4f8e29b37e3f55d2a
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/2D/Passes/Utility/RendererLighting.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5eb12402c8b53dbaa40d67a6ccd1b4f6
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/010-NotSupported.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8ee25143a34b8c4388709ea947055d1
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/ScalingSetup.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5ea117a2b123564a83a2dbd1c9ea4cf
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Idle.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf6cbdd672089a84796e55a21fed1cbe
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUICanvas.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c9bd9b1710724164c8a601affb56d19d
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/Camera/UniversalRenderPipelineCameraUI.Rendering.Drawers.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a207e3bee00db44b940e6f362a8e148
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMaxTransparent.shadergraph
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9920c1f1781549a46ba081a2a15a16ec
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Nature/SpeedTree8_PBRLit.shadergraph
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a4da4d7c02dcbdd4f9ef2d3b1106879a
+    m_importFrom: Packages/com.unity.shadergraph/Editor/Data/Nodes/AbstractMaterialNode.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: daa46a58178a6ad41ae1ddc2dc7f856d
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIPanel.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c78b588b2e1f7c4a86ca4a985cf6e4a
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIBitField.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 828266174e573a6da71055ba8f017778
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/050-TestStructsLayout.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: baf945884d1937c2a53bce1dfcac594c
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.Core.ARM64.info.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c9e0e166435ac24eacc5a8f047aff75
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/VFXGraph/Shaders/Templates/VFXParticleLinesHW.template
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e6e9a19c3678ded42a3bc431ebef7dbd
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 47108b7d7a79385f98626b40f17ef46d
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/080-TestSystemMath.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b866f2ae2314368d97e916270883416e
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/LongTextAreaTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7270f3dffc138834da5642e5943f5072
+    m_importFrom: Packages/com.unity.render-pipelines.core/Editor/Debugging/DebugState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5c2988be6da139988b149bb3b60dc9ca
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/BurstInspectorGUITests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 28a3e3d7404f3ec8be735f11e8faa469
+    m_importFrom: Packages/com.unity.burst/Runtime/NoAliasAttribute.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 94afea5f242d72547979595ba963f335
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8b802ac01d87144b91f12f40c1f2659
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/SpatialMappingWireframe.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 196062cbef3533e384a45a204b6b9b64
+    m_importFrom: Packages/com.unity.burst/Editor/BurstLoader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30b8c33e57eb30adbfd9b640a4edaef8
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 730c9c8a21ae0a64aba043694dfacca7
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/VFXGraph/Shaders/VFXDefines.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d871bf5a85e3baaa304966c127e87a7
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/084-Loops.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e9d5a909a1f7e84882a534d0d11e49f
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/AutodeskInteractive/AutodeskInteractive.shadergraph
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ce09d4a80b88c5a4eb9768fab4f1ee00
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Projected.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e07174e0c0ba3d269ad0936f514c3409
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-BinaryOperators-Int4.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 60c9ed34f1cb3f3894ba98a65ef47c9e
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/TestSystemGuid.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: afa4d597c8db399ab071dfe6a3096516
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Bools.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 36b40077ff04349b8ab8ac0144483e68
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/Helpers/AssertHelper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf852408f2e174538bcd9b7fda1c5ae7
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Debug/DebugReplacement.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3550d8ec6f29ab34d895ae9a43d560c2
+    m_importFrom: Packages/com.unity.ugui/Runtime/EventSystem/RaycastResult.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 614354dff06f39c4b6ef0e21f5a45d23
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/055-TestStackalloc.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 556096baecf4aeb4e9f0d3efce77e08f
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Volume/VolumeComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c07004be90d3814b9a09f7d08b26eb1
+    m_importFrom: Packages/com.unity.burst/Tests/Editor/SeparateAssembly/BurstReflectionTestsSeparateAssembly.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f429ab8bba2f39c58d3dba8352f74349
+    m_importFrom: Packages/com.unity.burst/Editor/LongTextArea.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 725d36de53dc30f9a00742ae18029bcc
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Unity.Burst.Tests.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ce3376cccf543af995a4c64973bdbdf1
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Statics.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6315ff88aee8353f8d51a214dd42ff86
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/Arm/NEON_AArch64_crypto.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb91adf0b099390483bffed46bc16fb1
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/083-Aliasing.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db51e39af1b3c01449a3e6b1ce782a48
+    m_importFrom: Packages/com.unity.render-pipelines.universal/ShaderLibrary/UnityGBuffer.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e1c97fc44f9a8744b61b58f72c56de4
+    m_importFrom: Packages/com.unity.render-pipelines.core/Editor/Resources/DebugProbe.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b07e41fd0073a288687109ac0c6250f
+    m_importFrom: Packages/com.unity.burst/Editor/BurstDisassembler.Core.LLVMIR.info.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 945f727e6eb43c81ae49f4e92e3d98c2
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/040-ControlFlows.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 16b5d2a7d862f49ffb9453600e8ee776
+    m_importFrom: Packages/com.unity.render-pipelines.universal/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8fbe92a9edfe6074e841d6dd1509bc59
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitBasemapGen.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 385bc181e02fb7549a92fc001133ad46
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Runtime/VFXGraph/Shaders/VFXCommon.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eb2949116dd3363e95ca56d95e70e990
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/UnityBenchShared
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5eb3e1cf0e2a3614927c245069c69baf
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/051-TestGenerics.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c3b39e2c2132303b9a932a499f05ca2a
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/x86/Csr.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad25529ea2516421ab5f1a2440bee139
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitPasses.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7a3d2b4e287138d6b5a68635fcda35ae
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/036-CSharpFunctionPointers.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 536c9865cfa23269b5cf15b4be9a1e98
+    m_importFrom: Packages/com.unity.burst/Runtime/BurstCompilerOptions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4eb3ce06cfe568d41b5658c020b72c8e
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Textures/RTHandles.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6bb382f7de370af41b775f54182e491d
+    m_importFrom: Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/ProbeVolumeCellDilation.compute
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e325eaafb90d419598a94581ba3335a4
+    m_importFrom: Packages/com.unity.render-pipelines.universal/ShaderLibrary/BRDF.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 625f186215c104763be7675aa2d941aa
+    m_importFrom: Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f8d496d402837948694e70f29a6c3af
+    m_importFrom: Packages/com.unity.burst/LICENSE.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6beb50d076c894d12a3a5fca04d4cd4b
+    m_importFrom: Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderPreprocessor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5fd9a8feb75a4b5894c241777f519d4e
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Utils/MaterialError.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5db67d0b9e503a5c9ac1a4f14ee7b4a5
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Maths.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2767f488542a342ebbeb038da59d959d
+    m_importFrom: Packages/com.unity.burst/Runtime/BurstString.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e35a31e1679aeff489e202f5cc4853d5
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Light2D-Point.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 701a30a4d0f73d51a92f908b568cea9d
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/041-ControlFlowsTryCatchFinally.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5c81372d981403744adbdda4433c9c11
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/AutodeskInteractive/AutodeskInteractiveTransparent.shadergraph
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed29326fcba3397394b33a09e46df489
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/UnityBenchShared/SphereCulling.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 36990957b5d73a9681ce7dd9f4d5a7b0
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/052-TestFixed.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 42a959575dd7397e960b06b5462babc5
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/SimdDebugViews.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7839dad95683814aa64166edc107ae2
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesLit.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 562b7ae4f629f144aa97780546fce7c6
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/EdgeAdaptiveSpatialUpsampling.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e260cfa7296ee7642b167f1eb5be5023
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d8c744701b43c864b88e7f8144e19bc5
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIFloatField.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 59219fb374ee3218ab6a9a04683c6106
+    m_importFrom: Packages/com.unity.burst/Runtime/Intrinsics/v256.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10a25524b0986f9488b430e2829bbbe8
+    m_importFrom: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIMessageBox.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93aa22b749c8358d8368db9527996503
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/090-Vectors-Doubles.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5cb845b7decdb4db6a7fcc676b127b6d
+    m_importFrom: Packages/com.unity.render-pipelines.universal/ShaderLibrary/Shadows.hlsl
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df58129e92123044b15b889624e8868c
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/Shared/084-IntrinsicsCommon.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d2654ad3c17ab8a4ebb9fd0719795d21
+    m_importFrom: Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac74b11ef46b35938b5d3ca8a4109efa
+    m_importFrom: Packages/com.unity.burst/Tests/Runtime/NativeTriggeredManagedExceptionsBurstJobs.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f86325df462c3b77931388857d23e9f8
+    m_importFrom: Packages/com.unity.burst/Runtime/CompilerServices/Loop.cs
+    m_exportTo: 
+    m_variantName: 
+  m_version: 2
